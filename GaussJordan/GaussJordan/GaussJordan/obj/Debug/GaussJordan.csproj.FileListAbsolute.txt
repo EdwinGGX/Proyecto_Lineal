@@ -1,0 +1,20 @@
+C:\Users\rparra\Desktop\Aplicaciones\Fuera\Gauss Jordan\GaussJordan\GaussJordan\bin\Debug\GaussJordan.exe.config
+C:\Users\rparra\Desktop\Aplicaciones\Fuera\Gauss Jordan\GaussJordan\GaussJordan\bin\Debug\GaussJordan.exe
+C:\Users\rparra\Desktop\Aplicaciones\Fuera\Gauss Jordan\GaussJordan\GaussJordan\bin\Debug\GaussJordan.pdb
+C:\Users\rparra\Desktop\Aplicaciones\Fuera\Gauss Jordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.csprojResolveAssemblyReference.cache
+C:\Users\rparra\Desktop\Aplicaciones\Fuera\Gauss Jordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.Form1.resources
+C:\Users\rparra\Desktop\Aplicaciones\Fuera\Gauss Jordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.Properties.Resources.resources
+C:\Users\rparra\Desktop\Aplicaciones\Fuera\Gauss Jordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.csproj.GenerateResource.Cache
+C:\Users\rparra\Desktop\Aplicaciones\Fuera\Gauss Jordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.exe
+C:\Users\rparra\Desktop\Aplicaciones\Fuera\Gauss Jordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.pdb
+C:\Users\escob\Downloads\GaussJordan\GaussJordan\GaussJordan\bin\Debug\GaussJordan.exe.config
+C:\Users\escob\Downloads\GaussJordan\GaussJordan\GaussJordan\bin\Debug\GaussJordan.exe
+C:\Users\escob\Downloads\GaussJordan\GaussJordan\GaussJordan\bin\Debug\GaussJordan.pdb
+C:\Users\escob\Downloads\GaussJordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.csproj.AssemblyReference.cache
+C:\Users\escob\Downloads\GaussJordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.csproj.SuggestedBindingRedirects.cache
+C:\Users\escob\Downloads\GaussJordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.Form1.resources
+C:\Users\escob\Downloads\GaussJordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.Properties.Resources.resources
+C:\Users\escob\Downloads\GaussJordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.csproj.GenerateResource.cache
+C:\Users\escob\Downloads\GaussJordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.csproj.CoreCompileInputs.cache
+C:\Users\escob\Downloads\GaussJordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.exe
+C:\Users\escob\Downloads\GaussJordan\GaussJordan\GaussJordan\obj\Debug\GaussJordan.pdb
